@@ -1,0 +1,42 @@
+{
+  "type": "dmc-region",
+  "version": 1,
+  "settings": {
+    "tree": {
+      "name": "*",
+      "flood": true,
+      "children": [
+        {
+          "name": "de",
+          "flood": true,
+          "children": [
+            {
+              "name": "de-dk",
+              "flood": true,
+              "children": [
+                {
+                  "name": "de-nord",
+                  "flood": true,
+                  "children": [
+                    {
+                      "name": "de-sh",
+                      "flood": true,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "home": null,
+    "default": null,
+    "dcGate": {
+      "enabled": true,
+      "thresh": 15,
+      "hyst": 5
+    }
+  }
+}

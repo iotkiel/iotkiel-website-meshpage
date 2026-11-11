@@ -1,0 +1,91 @@
+{
+  "type": "dmc-filter",
+  "version": 1,
+  "settings": {
+    "enabled": true,
+    "perType": [
+      {
+        "hops": 6,
+        "rateLimit": 5,
+        "rateSecs": 60,
+        "soft": 0
+      },
+      {
+        "hops": 6,
+        "rateLimit": 5,
+        "rateSecs": 60,
+        "soft": 0
+      },
+      {
+        "hops": 10,
+        "rateLimit": 5,
+        "rateSecs": 60,
+        "soft": 0
+      },
+      {
+        "hops": 10,
+        "rateLimit": 5,
+        "rateSecs": 60,
+        "soft": 0
+      },
+      {
+        "hops": 8,
+        "rateLimit": 5,
+        "rateSecs": 60,
+        "soft": 0
+      },
+      {
+        "hops": 32,
+        "rateLimit": 20,
+        "rateSecs": 60,
+        "soft": 0
+      },
+      {
+        "hops": 8,
+        "rateLimit": 5,
+        "rateSecs": 60,
+        "soft": 0
+      },
+      {
+        "hops": 8,
+        "rateLimit": 3,
+        "rateSecs": 60,
+        "soft": 0
+      },
+      {
+        "hops": 8,
+        "rateLimit": 5,
+        "rateSecs": 60,
+        "soft": 0
+      },
+      {
+        "hops": 8,
+        "rateLimit": 5,
+        "rateSecs": 60,
+        "soft": 0
+      },
+      {
+        "hops": 8,
+        "rateLimit": 5,
+        "rateSecs": 60,
+        "soft": 0
+      },
+      {
+        "hops": 8,
+        "rateLimit": 5,
+        "rateSecs": 60,
+        "soft": 0
+      }
+    ],
+    "channels": [],
+    "minHashBytes": 1,
+    "malformed": true,
+    "dryrun": false,
+    "advertHours": 25,
+    "ageMins": 0,
+    "paths": [],
+    "senders": [],
+    "texts": [],
+    "watch": []
+  }
+}
