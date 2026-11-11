@@ -24,7 +24,9 @@ Für Boards ohne Wlan:
 <img width="1030" height="249" alt="grafik" src="https://github.com/user-attachments/assets/b2228a42-019e-4d05-b431-178a649282f1" />
 
 Dateien
+
 DMC-filter json https://github.com/iotkiel/iotkiel-website-meshpage/blob/af8f8039ab30909243b89d071662ece9a0d48bf4/dmc-filter261111.json
+
 DMC-jason json https://github.com/iotkiel/iotkiel-website-meshpage/blob/af8f8039ab30909243b89d071662ece9a0d48bf4/dmc-region261111.json
 
 Es fehlen noch deine WLAN Einstellungen, die Observereinstellungen sind so ok vllt kommen noch Bilder
