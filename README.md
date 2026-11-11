@@ -22,9 +22,13 @@ Für Boards ohne Wlan:
 <img width="1030" height="491" alt="grafik" src="https://github.com/user-attachments/assets/1a4fc3d2-5676-408c-8c8e-705648120b35" />
 <img width="1030" height="678" alt="grafik" src="https://github.com/user-attachments/assets/628f976e-c1a0-471b-a7bb-d3348723b19c" />
 <img width="1030" height="249" alt="grafik" src="https://github.com/user-attachments/assets/b2228a42-019e-4d05-b431-178a649282f1" />
+
 Dateien
+DMC-filterjson https://github.com/iotkiel/iotkiel-website-meshpage/blob/af8f8039ab30909243b89d071662ece9a0d48bf4/dmc-filter261111.json
+DMC-jason json https://github.com/iotkiel/iotkiel-website-meshpage/blob/af8f8039ab30909243b89d071662ece9a0d48bf4/dmc-region261111.json
 
 Es fehlen noch deine WLAN Einstellungen, die Observereinstellungen sind so ok vllt kommen noch Bilder
 -------------
 ### Einstellungen Companion
+kommen demnächst
 -----------
