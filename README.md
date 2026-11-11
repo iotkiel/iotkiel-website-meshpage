@@ -16,6 +16,15 @@ Für Boards ohne Wlan:
 
 -------------
 ### Einstellungen Repeater
+<img width="1055" height="294" alt="grafik" src="https://github.com/user-attachments/assets/c753599a-7b2e-4f4c-ad6f-8afcf1396510" />
+<img width="1031" height="331" alt="grafik" src="https://github.com/user-attachments/assets/a0c58011-c367-4e33-8820-88d1f9bc2439" />
+<img width="1030" height="250" alt="grafik" src="https://github.com/user-attachments/assets/d3b9999d-39e1-47c2-ad77-5d8d00817b1e" />
+<img width="1030" height="491" alt="grafik" src="https://github.com/user-attachments/assets/1a4fc3d2-5676-408c-8c8e-705648120b35" />
+<img width="1030" height="678" alt="grafik" src="https://github.com/user-attachments/assets/628f976e-c1a0-471b-a7bb-d3348723b19c" />
+<img width="1030" height="249" alt="grafik" src="https://github.com/user-attachments/assets/b2228a42-019e-4d05-b431-178a649282f1" />
+
+
+Datei
 -------------
 ### Einstellungen Companion
 -----------
